@@ -1,0 +1,20 @@
+.content{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    grid-gap: 20px;
+    padding: 100px;
+    /* background-color: lightgreen; */
+}
+.date{
+    background-color: rgb(187, 241, 35);
+    text-align: center;
+    font-size: 40px;
+    color: lightcoral;
+    
+}
+.class{
+    background-color: lightgreen;
+    text-align: center;
+    font-size: 40px;
+    color: lightcoral;
+}
